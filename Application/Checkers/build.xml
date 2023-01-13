@@ -1,0 +1,5 @@
+
+<project name="Checkers" default="default" basedir=".">
+    <description>Builds, tests, and runs the project Checkers.</description>
+    <import file="nbproject/build-impl.xml"/>
+</project>

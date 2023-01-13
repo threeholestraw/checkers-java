@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"ca.on.tdsb.student.checkers","l":"CheckersGameScreen"},{"p":"ca.on.tdsb.student.checkers","l":"CheckersInstructionScreen"},{"p":"ca.on.tdsb.student.checkers","l":"CheckersIntroScreen"},{"p":"ca.on.tdsb.student.checkers","l":"CheckersMain"},{"p":"ca.on.tdsb.student.checkers","l":"CheckersUsefulMethods"}]
